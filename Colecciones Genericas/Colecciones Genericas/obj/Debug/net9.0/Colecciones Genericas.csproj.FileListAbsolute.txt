@@ -1,0 +1,14 @@
+C:\Users\kevin\OneDrive\Desktop\Programación 3\Colecciones Genericas\Colecciones Genericas\bin\Debug\net9.0\Colecciones Genericas.exe
+C:\Users\kevin\OneDrive\Desktop\Programación 3\Colecciones Genericas\Colecciones Genericas\bin\Debug\net9.0\Colecciones Genericas.deps.json
+C:\Users\kevin\OneDrive\Desktop\Programación 3\Colecciones Genericas\Colecciones Genericas\bin\Debug\net9.0\Colecciones Genericas.runtimeconfig.json
+C:\Users\kevin\OneDrive\Desktop\Programación 3\Colecciones Genericas\Colecciones Genericas\bin\Debug\net9.0\Colecciones Genericas.dll
+C:\Users\kevin\OneDrive\Desktop\Programación 3\Colecciones Genericas\Colecciones Genericas\bin\Debug\net9.0\Colecciones Genericas.pdb
+C:\Users\kevin\OneDrive\Desktop\Programación 3\Colecciones Genericas\Colecciones Genericas\obj\Debug\net9.0\Colecciones Genericas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevin\OneDrive\Desktop\Programación 3\Colecciones Genericas\Colecciones Genericas\obj\Debug\net9.0\Colecciones Genericas.AssemblyInfoInputs.cache
+C:\Users\kevin\OneDrive\Desktop\Programación 3\Colecciones Genericas\Colecciones Genericas\obj\Debug\net9.0\Colecciones Genericas.AssemblyInfo.cs
+C:\Users\kevin\OneDrive\Desktop\Programación 3\Colecciones Genericas\Colecciones Genericas\obj\Debug\net9.0\Colecciones Genericas.csproj.CoreCompileInputs.cache
+C:\Users\kevin\OneDrive\Desktop\Programación 3\Colecciones Genericas\Colecciones Genericas\obj\Debug\net9.0\Colecciones Genericas.dll
+C:\Users\kevin\OneDrive\Desktop\Programación 3\Colecciones Genericas\Colecciones Genericas\obj\Debug\net9.0\refint\Colecciones Genericas.dll
+C:\Users\kevin\OneDrive\Desktop\Programación 3\Colecciones Genericas\Colecciones Genericas\obj\Debug\net9.0\Colecciones Genericas.pdb
+C:\Users\kevin\OneDrive\Desktop\Programación 3\Colecciones Genericas\Colecciones Genericas\obj\Debug\net9.0\Colecciones Genericas.genruntimeconfig.cache
+C:\Users\kevin\OneDrive\Desktop\Programación 3\Colecciones Genericas\Colecciones Genericas\obj\Debug\net9.0\ref\Colecciones Genericas.dll
